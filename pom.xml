@@ -15,7 +15,6 @@
     <properties>
         <scm-path>local/development/workspace</scm-path>
         <scm-revision>${buildNumber}</scm-revision>
-
         <licenseName>community</licenseName>
     </properties>
 
@@ -28,6 +27,7 @@
     </repositories>
 
     <dependencies>
+
         <dependency>
             <groupId>org.alfresco</groupId>
             <artifactId>alfresco-repository</artifactId>
@@ -138,7 +138,6 @@
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>${dependency.mysql.version}</version>
-            <scope>test</scope>
         </dependency>
     </dependencies>
 
