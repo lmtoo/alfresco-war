@@ -1,3 +1,4 @@
-sourceforge :https://sourceforge.net/projects/alfresco
+sourceforge: https://sourceforge.net/projects/alfresco
 develop: http://ecmarchitect.com/alfresco-developer-series-tutorials/
-release:https://community.alfresco.com/docs/DOC-7381-draft-alfresco-community-edition-201805-ga-release-draft
+release: https://community.alfresco.com/docs/DOC-7381-draft-alfresco-community-edition-201805-ga-release-draft
+docs: http://docs.alfresco.com/community/
